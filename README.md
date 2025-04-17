@@ -1,4 +1,6 @@
-## Hi there 👋
+
+## Адекватный, приятный, общительный, ответственный
+~~Чсв, Токсик, Неадекват~~
 
 <!--
 **ARAGOLIS/ARAGOLIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
