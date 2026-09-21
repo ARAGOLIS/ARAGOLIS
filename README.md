@@ -21,7 +21,5 @@
 
 ---
 
-📊 GitHub статистика
-<p align="center"> <img height="165" src="https://github-readme-stats-eight-omega.vercel.app/api?username=ARAGOLIS&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats-eight-omega.vercel.app/api/top-langs/?username=ARAGOLIS&layout=compact&theme=tokyonight&hide_border=true" /> </p>
----
+
 
