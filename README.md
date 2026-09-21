@@ -1,10 +1,7 @@
 <h1 align="center">Привет, я Дмитрий 👋</h1>
 <h3 align="center">Backend Python Developer (FastAPI / Django)</h3>
 
-<p align="center">
-  REST API, интеграции с внешними системами, ETL и аналитические сервисы.<br/>
-  PostgreSQL · Redis · Kafka · Docker
-</p>
+
 
 ---
 
